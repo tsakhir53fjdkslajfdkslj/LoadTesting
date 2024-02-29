@@ -6,4 +6,4 @@ execution:
 scenarios:
   quickst-test:
     requests:
-    - http://blazedemo.com
+    - http://blazedemo.mn
